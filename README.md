@@ -1,0 +1,2 @@
+# ProteinSeq_Sparse_Representation_Classification_ToolBox
+A toolbox for protein sequence classification using sparse representation classifier
